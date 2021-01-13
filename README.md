@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">All things DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanejaz1&label=Profile%20views&color=0e75b6&style=flat" alt="hassanejaz1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanejaz1" alt="hassanejaz1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanejaz1&label=Hits&color=b40e0e&style=plastic" alt="hassanejaz1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hazni" target="blank"><img src="https://img.shields.io/twitter/follow/hazni?logo=twitter&style=for-the-badge" alt="hazni" /></a> </p>
 
@@ -30,9 +28,5 @@
 <p><a href="https://www.buymeacoffee.com/hassanejaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hassanejaz" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanejaz1&show_icons=true&locale=en&layout=compact" alt="hassanejaz1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanejaz1&show_icons=true&locale=en" alt="hassanejaz1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanejaz1&" alt="hassanejaz1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanejaz1&show_icons=true&theme=dark&locale=en" alt="hassanejaz1" /></p>
 
